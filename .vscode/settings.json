@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "Recurssion10.C": "cpp",
+        "LinkedListPolynomial.C": "cpp",
+        "Stack.C": "cpp",
+        "ReverseStringStack.C": "cpp",
+        "student_record.C": "cpp",
+        "linked_list.C": "cpp",
+        "Queue.C": "cpp",
+        "CircularQueue.C": "cpp",
+        "QueueLinkedList.C": "cpp",
+        "ParanthesesMatchLinkedList.C": "cpp",
+        "StackLinkedList.C": "cpp",
+        "ParanthesesMatch.C": "cpp",
+        "Recurssion1.C": "cpp",
+        "Recurssion2.C": "cpp",
+        "Recurssion3.C": "cpp",
+        "Recurssion4.C": "cpp",
+        "Recurssion5.C": "cpp",
+        "Recurssion6.C": "cpp",
+        "Recurssion7.C": "cpp",
+        "Recurssion8.C": "cpp",
+        "Recurssion9.C": "cpp",
+        "Recurssion11.C": "cpp",
+        "LibraryCatalog.C": "cpp",
+        "Polynomial.C": "cpp",
+        "music_playlist.C": "cpp",
+        "P1.C": "cpp"
+    }
+}
